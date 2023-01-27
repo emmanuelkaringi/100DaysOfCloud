@@ -3,6 +3,7 @@
 </p>
 
 ## The Challenge
+
 1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
 3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
@@ -10,20 +11,17 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Emmanuel Kariithi's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Hi, I'm Emmanuel Kariithi. An enthusiastic, focused and motivated developer who is on a path to add job ready skills, and gain new information everyday.
 
-[✍️ Introduce yourself]
+I started #100daysofcloud as a way to keep myself accountable as I work towards gaining atleast two AWS certifications. Other than that, my goal is to work on a number of cloud projects.
 
-[✍️ Tell us why you started this challenge]
+- By the end of this challenge, I aim to have gotten atleast two AWS certifications (AWS CCP & AWS SysOps Administrator.
+- Have a job ready resume.
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/Karingi_)
+- [LinkedIn](https://www.linkedin.com/in/emmanuel-kariithi/)
 
 ## Stepping out the door
 
@@ -142,7 +140,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
 
-## Into the sky to touch the cloud!
+## Into the sky to touch the cloud
 
 - [ ] ☁️ 91 > [](Journey/091/Readme.md)
 - [ ] ☁️ 92 > [](Journey/092/Readme.md)
