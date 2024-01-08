@@ -13,19 +13,24 @@
 
 ## Emmanuel Kariithi's Cloud Journey
 
-Hi, I'm Emmanuel Kariithi. An enthusiastic, focused and motivated developer who is on a path to add job ready skills, and gain new information everyday.
+Hi there! I'm Emmanuel Kariithi, a dedicated and motivated developer currently in my final year of studies. I am embarking on the #100daysofcloud challenge to enhance my skills and acquire valuable knowledge that will make me job-ready.
 
-I started #100daysofcloud as a way to keep myself accountable as I work towards gaining atleast two AWS certifications. Other than that, my goal is to work on a number of cloud projects.
+At the end of this challenge, I'd like to:
 
-- By the end of this challenge, I aim to have gotten atleast two AWS certifications (AWS CCP & AWS SysOps Administrator.
-- Have a job ready resume.
+- Strengthen my proficiency in a programming language, making me more confident in my coding abilities.
+- Acquire in-depth knowledge and skills to create, manage, and troubleshoot services within the Microsoft Azure ecosystem.
+- Develop a comfort level in identifying and troubleshooting services within the Microsoft Azure ecosystem.
+- Gain the ability to discern and choose the optimal cloud service offering for specific problem scenarios.
+- Understand Serverless Functions and their usage.
+- Successfully pass the AZ-104 and AZ-204 exams.
 
 - [Twitter](https://twitter.com/Karingi_)
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-kariithi/)
+- [Blog](https://dev.to/immah)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Bash Scripting Intro](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
