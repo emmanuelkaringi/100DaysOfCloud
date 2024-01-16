@@ -35,7 +35,7 @@ At the end of this challenge, I'd like to:
 - [ ] ☁️ 3 > [Bash Scripting - Loops](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Bash Scripting - Digital Clock and Archiving Script Projects](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Networking - Introduction](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [Using Azure Powershell & Azure CLI](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
